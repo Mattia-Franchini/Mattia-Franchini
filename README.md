@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mattia Franchini</h1>
 <h3 align="center">A passionate web developer from Italy</h3>
 
-- 🔭 I’m currently working on [Studio Amico (frontend)](https://github.com/MattiaFranchini1/StudioAmicoFrontend)
+- 🔭 I’m currently working on [Portfolio](https://github.com/Mattia-Franchini/portfolio)
 
 - 🌱 I’m currently go into detail of **React js**
 
