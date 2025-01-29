@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently go into detail of **React js**
 
+- 📚 I'm currently studying computer engineering at university
+
 - 📫 How to reach me **mattia.franchini005@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
